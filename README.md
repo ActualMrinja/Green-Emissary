@@ -7,8 +7,8 @@ Download the extension.
 Download the code for the extension.
 
 # Step 2: Unzip Files
-Unzip the files and move the folder labeled Green-Emissary-master
+Unzip the files and move the folder labeled Green-Emissary-main.
 
 # Step 3: Load Unpacked Extension
-Enter developer mode and click load unpacked. Select the folder labeled Green-Emissary-master
+Enter developer mode and click load unpacked. Select the folder labeled Green-Emissary-main.
 
