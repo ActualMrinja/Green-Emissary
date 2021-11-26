@@ -1,7 +1,5 @@
 # Green-Emissary
-Tulip is looking for a knight in shining cellulose and needs your help.
-
-Built usig React.js.
+Tulip is looking for a knight in shining cellulose and needs your help. Built using React.js.
 
 Download the extension.
 
