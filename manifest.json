@@ -2,7 +2,7 @@
   "name": "Green Emissary",
   "version": "1.0.0",
   "description": "Tulip is looking for a knight in shining cellulose and needs your help.",
-  "action": {
+  "browser_action": {
     "default_popup": "index.html",
     "default_icon": "assets/icons/icon48.png"
   },
